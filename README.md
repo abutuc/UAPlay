@@ -1,2 +1,1 @@
-A cadeira de ITW procura introduzir um pouco de tudo relativamente ao desenvolvimento web. O projeto final consiste em criar um site responsivo que utiliza uma API criada pelo professor.
-No meu projeto, tivemos que criar um site que servisse de "guia" para todos os filmes e série presentes na API da Netflix do professor.
+UAPlay is a website with a catalog style for movies and series from Netflix. This project was developed during the course Introduction to Web Technologies which focused on the fundamentals of web development and key aspects to take into consideration while developing a GUI, namely a website (for example, website responsiveness and use of pre-built APIs).
